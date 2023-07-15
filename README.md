@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will be building a basic recipe website. The skills I will demonstrate thoughout this project will be able to create a boilerplate incorperating text, creating paragraphs <p></p>, headings <h1></h1> and changing the type of text these paragraphs and headings will have e.g bold <strong></strong> and italicized <em></em> text. Lists ordered <ol></ol> and unordered <ul></ul> with accompanying links <a href></a>and images <img src> which will be the main part of a recipe website.
