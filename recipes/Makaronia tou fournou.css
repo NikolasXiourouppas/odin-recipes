@@ -1,0 +1,58 @@
+body {
+    background: #edc9af;
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.Maka.on {
+font-size: 50px;
+}
+
+.Maka {
+    text-align: center;
+    margin: 10px;
+}
+
+#myimage {
+    max-height: auto;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+}
+
+#container {
+width: 600px;
+background: #eee;
+margin: 16px auto;
+padding: 8px;
+}
+
+.text{
+    font-size: 18px;
+    margin-bottom: 8px;
+    padding: 8px 18px;
+    text-align: center;
+}
+
+#contin {
+   width: 600px;
+   background: #eee;
+   margin: 16px auto;
+   padding: 8px;
+}
+
+.in {
+    text-align: center;
+}
+
+#cont {
+   width: 600px;
+   background: #eee;
+   margin: 16px auto;
+   padding: 8px;
+}
+
+.step {
+     text-align: center;
+}
